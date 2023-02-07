@@ -1,7 +1,3 @@
-# Based on https://github.com/energyinpython/pydaria
-# the previous publication of the author
-# Wątróbski, J., Bączkiewicz, A., Ziemba, E., & Sałabun, W. (2022). Sustainable cities and communities assessment using the DARIA-TOPSIS method. Sustainable Cities and Society, 83, 103926.
-
 import itertools
 import copy
 import numpy as np
